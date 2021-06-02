@@ -2,8 +2,9 @@
 
 ### My name is George. I can have clean code instead of meals!
 
-#### 🌱 I’m currently learning advanced Java programming and the Software Engineering philosophy and techniques  
-#### 👯 I’m looking to collaborate on Android projects
+  
+🌱 I’m currently learning advanced Java programming and the Software Engineering philosophy and techniques  
+👯 I’m looking to collaborate on Android projects
   
 #### 📫 How to reach me: academic email (geompokon@csd.auth.gr) -> discord later
 
