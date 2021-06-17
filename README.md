@@ -8,3 +8,6 @@
 #### 📫 How to reach me: e-mail (georgebour@outlook.com) -> Discord later
 
 #### Personal quote: If it can be done with streams, I will do it!
+
+
+[](https://komarev.com/ghpvc/?username=Abductcows&color=green)
