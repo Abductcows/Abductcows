@@ -1,13 +1,15 @@
-# Hi there 👋
+# Yo
 
-### My name is George. I can have clean code instead of meals!
+### My name is George. 
 
-🌱 I’m currently learning advanced Java programming and the Software Engineering philosophy and techniques  
-👯 I’m looking to collaborate on Android projects
+I currently use github for small projects to add to my portfolio. My interests are:
+
+  - Software Engineering
+  - Game Development with Unity (still have a lot to learn)
+  - Android/Kotlin/Java projects and flings
+  - Android Compose & Compose Multi-platform
+  - Spring (Boot)
+
+###### Favorite food is water
   
-#### 📫 How to reach me: e-mail (georgebour@outlook.com) -> Discord later
-
-#### Personal quote: If it can be done with streams, I will do it!
-
-
 [](https://komarev.com/ghpvc/?username=Abductcows&color=green)
