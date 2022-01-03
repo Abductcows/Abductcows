@@ -10,6 +10,8 @@ I currently use github for small projects to add to my portfolio. My interests a
   - Game Development with Unity (still have a lot to learn)
   - Android Compose & Compose Multi-platform
   
+  [GPG](GPG.gpg)&ensp;`gpg --keyserver keys.openpgp.org --recv-keys 5DA3A22B0C08FBAE6ED672DFD4A60EEF7D46E388`
+  
 I am presently working on my own Open Source Java class named `BitArray`. It is a small project in pursuit of completely outclassing `ArrayList<Boolean>` in both performance and memory use. And I am learning a lot along the way such as:
   
 - How to structure a project with [Maven](https://maven.apache.org/) (Compilation, dependency handling, even deployment of the final product).    
