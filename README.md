@@ -21,6 +21,4 @@ I am presently working on my own Open Source Java class named `BitArray`. It is 
 
 ...and a few bit hacks for the implementation that I came up with. If it seems useful to you or you'd like to contribute, come say [hi](https://github.com/Abductcows/java-bit-array).
 
-[BitArray](https://github.com/Abductcows/java-bit-array) is already usable at version 1.X and will soon be released at 2.0.0 on [Maven Central](https://mvnrepository.com/repos/central)
-
 [](https://komarev.com/ghpvc/?username=Abductcows&color=green)
